@@ -2,7 +2,10 @@ body {
   font-family: "Space Mono", monospace;
   background-color: #fdf9fd;
 }
-
+.main{
+  position:relative;
+  top:-36%;
+}
 h1 {
   font-size: 100px;
   line-height: 1;
