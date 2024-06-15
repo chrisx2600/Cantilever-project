@@ -29,6 +29,7 @@ span {
 
 @media only screen and (max-width: 1700px){
  div {
+   margin-top:-4%;
   width: 75%;
 
 } 
