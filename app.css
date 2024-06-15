@@ -1,10 +1,11 @@
 body {
   font-family: "Space Mono", monospace;
   background-color: #fdf9fd;
+
 }
 .main{
-  position:relative;
-  margin-top:-3%;
+  position: relative;
+  margin-top: -3%;
 }
 h1 {
   font-size: 100px;
@@ -86,7 +87,7 @@ body{
 
 @media only screen and (max-width:412px){
   .main{
-    margin-left: auto;
+    margin-left: 19%;
   }
   h1{
     font-size:64px;
